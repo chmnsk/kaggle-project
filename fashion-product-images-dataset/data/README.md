@@ -10,21 +10,19 @@ Download the dataset from [Kaggle](https://www.kaggle.com/datasets/paramaggarwal
 ```text
 fashion-product-images-dataset/data
 ├── README.md
-├── fashion-dataset
-│   ├── images
-│   ├── images.csv
-│   ├── styles
-│   └── styles.csv
-├── images
-│   ├── 10000.jpg
-│   ├── ...
-│
-├── images.csv
-├── styles
-│   ├── 10000.json
-│   ├── ...
-│
-└── styles.csv
+└── fashion-dataset
+    ├── images
+    │   ├── 10000.jpg
+    │   ├── ...
+    │   └── 9999.jpg
+    │
+    ├── images.csv
+    ├── styles
+    │   ├── 10000.json
+    │   ├── ...
+    │   └── 9999.json
+    │
+    └── styles.csv
 ```
 
 
